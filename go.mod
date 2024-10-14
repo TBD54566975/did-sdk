@@ -5,7 +5,7 @@ go 1.23
 require (
 	github.com/bits-and-blooms/bitset v1.14.3
 	github.com/btcsuite/btcd/btcec/v2 v2.3.4
-	github.com/cloudflare/circl v1.4.0
+	github.com/cloudflare/circl v1.5.0
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.3.0
 	github.com/go-playground/validator/v10 v10.22.1
 	github.com/goccy/go-json v0.10.3
